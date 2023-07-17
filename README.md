@@ -16,3 +16,7 @@
 ###  Categorie 7:  Permanente ban 
 
 ###  Categorie 8:  Permanente ban + discord ban. 
+
+
+## Artikel 1: Exploits en cheat:
+
